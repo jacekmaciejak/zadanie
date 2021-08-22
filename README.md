@@ -1,5 +1,5 @@
 # zadanie
 
-## [Live Site](https://jacekmaciejak.github.io/zadanie/)
+## [Live View](https://jacekmaciejak.github.io/zadanie/)
 
 Responsive component, only HTML and CSS
